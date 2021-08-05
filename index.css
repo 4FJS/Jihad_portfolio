@@ -1,9 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
 #wcm{
     background-color: aqua;
     color: blueviolet;
     border: solid 10px yellowgreen;
     border-radius: 25px;
     margin: 25px 500px;
-    padding: 1px 80px;
+    padding: 1px 30px;
+    font-size: 40px;
     
+}
+
+
+
+
+#wcmone{
+margin: 0px 0px;
+    text-align: center;
+
+
+}
+
+
+.name-highlight{
+
+    color: orange;
 }
