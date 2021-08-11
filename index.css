@@ -67,7 +67,7 @@ section{
 #linkbuttonone{
     background-image: linear-gradient( 45deg, green, yellow);
     text-decoration: none;
-    background-color: purple;
+  
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -75,11 +75,28 @@ section{
  
 }
 #linkbuttontwo{
-    background-image:linear-gradient(45deg ,orange, purple);
-    background-color: greenyellow;
-    color: blue;
-    padding: 2px 4px;
-    border-radius: 5px;
 
-    text-decoration: none;
+background-image: linear-gradient(45deg , orange, red);
+    border-radius: 5px;
+  color: blueviolet;
+text-decoration: none;
+padding: 10px 7px;
+font-weight: 700;
+
+
+
+}
+
+
+.Dream{
+
+
+    background-image: url(images/dream-bg.png);
+
+    background-repeat: no-repeat;
+
+    background-position: right;
+
+    
+
 }
