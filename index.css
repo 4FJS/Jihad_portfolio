@@ -28,7 +28,7 @@ margin: 0px 0px;
 }
 
 
-.name-highlight{
+.orange-name-highlight{
 
     color: orange;
 }
@@ -57,11 +57,11 @@ margin-top: 100px;
 
 }
 
+
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
-
-
 
 
 #linkbuttonone{
@@ -99,4 +99,36 @@ font-weight: 700;
 
     
 
+}
+
+#expone{
+    margin:0% 40%;
+    border: solid 10px red;
+    border-radius: 25px;
+
+    text-align: center;
+}
+.single-experience{
+
+
+    box-shadow: 10px 5px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+}
+#full-stacks{
+
+   
+    border-left:7px solid;
+    border-image: linear-gradient(180deg, red ,pink);
+    border-image-slice: 1;
+}
+#baby-webdev{
+     
+    border-left:7px solid;
+    border-image: linear-gradient( 180deg ,rgba(25, 0, 255, 0.904) ,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
 }
